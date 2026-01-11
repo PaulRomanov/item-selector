@@ -1,6 +1,6 @@
 # Item Selector
 
-## Демо: [test-item-selector.vercel.app](https://test-item-selector.vercel.app)
+## Demo: [item-selector.vercel.app](https://item-selector-rho.vercel.app/)
 
 # Item Selector Application
 
