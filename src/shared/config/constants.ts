@@ -1,0 +1,1 @@
+export const MAX_SELECTED_USER_ITEMS = 6;
