@@ -6,7 +6,7 @@
 
 A scalable, maintainable Vue 3 application architected using **Feature-Sliced Design (FSD)** methodology.
 
-This project demonstrates Senior-level frontend development practices, emphasizing modularity, separation of concerns (SoC), and solid engineering principles (SOLID, DRY).
+This project demonstrates best practices, emphasizing modularity, separation of concerns (SoC), and solid engineering principles (SOLID, DRY).
 
 ## 🏗 Architecture & Stack
 
